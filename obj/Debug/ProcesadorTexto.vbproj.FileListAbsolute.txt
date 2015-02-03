@@ -1,0 +1,36 @@
+C:\Documents and Settings\Bryan\Escritorio\ProcesadorTexto\ProcesadorTexto\bin\Debug\ProcesadorTexto.exe
+C:\Documents and Settings\Bryan\Escritorio\ProcesadorTexto\ProcesadorTexto\bin\Debug\ProcesadorTexto.pdb
+C:\Documents and Settings\Bryan\Escritorio\ProcesadorTexto\ProcesadorTexto\bin\Debug\ProcesadorTexto.xml
+C:\Documents and Settings\Bryan\Escritorio\ProcesadorTexto\ProcesadorTexto\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Bryan\Escritorio\ProcesadorTexto\ProcesadorTexto\obj\Debug\ProcesadorTexto.frm_main.resources
+C:\Documents and Settings\Bryan\Escritorio\ProcesadorTexto\ProcesadorTexto\obj\Debug\ProcesadorTexto.Resources.resources
+C:\Documents and Settings\Bryan\Escritorio\ProcesadorTexto\ProcesadorTexto\obj\Debug\ProcesadorTexto.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Bryan\Escritorio\ProcesadorTexto\ProcesadorTexto\obj\Debug\ProcesadorTexto.exe
+C:\Documents and Settings\Bryan\Escritorio\ProcesadorTexto\ProcesadorTexto\obj\Debug\ProcesadorTexto.xml
+C:\Documents and Settings\Bryan\Escritorio\ProcesadorTexto\ProcesadorTexto\obj\Debug\ProcesadorTexto.pdb
+C:\Documents and Settings\Administrador\Escritorio\ProcesadorTexto\ProcesadorTexto\obj\Debug\ProcesadorTexto.exe
+C:\Documents and Settings\Administrador\Escritorio\ProcesadorTexto\ProcesadorTexto\obj\Debug\ProcesadorTexto.xml
+C:\Documents and Settings\Administrador\Escritorio\ProcesadorTexto\ProcesadorTexto\obj\Debug\ProcesadorTexto.pdb
+C:\Documents and Settings\Administrador\Escritorio\ProcesadorTexto\ProcesadorTexto\bin\Debug\ProcesadorTexto.exe
+C:\Documents and Settings\Administrador\Escritorio\ProcesadorTexto\ProcesadorTexto\bin\Debug\ProcesadorTexto.pdb
+C:\Documents and Settings\Administrador\Escritorio\ProcesadorTexto\ProcesadorTexto\bin\Debug\ProcesadorTexto.xml
+C:\Documents and Settings\Administrador\Escritorio\ProcesadorTexto\ProcesadorTexto\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\ProcesadorTexto\ProcesadorTexto\obj\Debug\ProcesadorTexto.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\ProcesadorTexto\ProcesadorTexto\obj\Debug\ProcesadorTexto.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\ProcesadorTexto\ProcesadorTexto\obj\Debug\ProcesadorTexto.btn_colorfuente.resources
+F:\DYR\Proyectos\ProcesadorTexto\ProcesadorTexto\obj\Debug\ProcesadorTexto.exe
+F:\DYR\Proyectos\ProcesadorTexto\ProcesadorTexto\obj\Debug\ProcesadorTexto.xml
+F:\DYR\Proyectos\ProcesadorTexto\ProcesadorTexto\obj\Debug\ProcesadorTexto.pdb
+G:\Documents\DYR\Proyectos\ProcesadorTexto\ProcesadorTexto\obj\Debug\ProcesadorTexto.exe
+G:\Documents\DYR\Proyectos\ProcesadorTexto\ProcesadorTexto\obj\Debug\ProcesadorTexto.xml
+G:\Documents\DYR\Proyectos\ProcesadorTexto\ProcesadorTexto\obj\Debug\ProcesadorTexto.pdb
+G:\Documents\DYR\Proyectos\ProcesadorTexto\ProcesadorTexto\bin\Debug\ProcesadorTexto.exe
+G:\Documents\DYR\Proyectos\ProcesadorTexto\ProcesadorTexto\bin\Debug\ProcesadorTexto.pdb
+G:\Documents\DYR\Proyectos\ProcesadorTexto\ProcesadorTexto\bin\Debug\ProcesadorTexto.xml
+G:\Documents\DYR\Proyectos\ProcesadorTexto\ProcesadorTexto\obj\Debug\ResolveAssemblyReference.cache
+G:\Documents\DYR\Proyectos\ProcesadorTexto\ProcesadorTexto\obj\Debug\ProcesadorTexto.btn_colorfuente.resources
+G:\Documents\DYR\Proyectos\ProcesadorTexto\ProcesadorTexto\obj\Debug\ProcesadorTexto.Resources.resources
+G:\Documents\DYR\Proyectos\ProcesadorTexto\ProcesadorTexto\obj\Debug\ProcesadorTexto.vbproj.GenerateResource.Cache
+Z:\Bryan\DAI\DYR\Proyectos\ProcesadorTexto\ProcesadorTexto\obj\Debug\ProcesadorTexto.exe
+Z:\Bryan\DAI\DYR\Proyectos\ProcesadorTexto\ProcesadorTexto\obj\Debug\ProcesadorTexto.xml
+Z:\Bryan\DAI\DYR\Proyectos\ProcesadorTexto\ProcesadorTexto\obj\Debug\ProcesadorTexto.pdb

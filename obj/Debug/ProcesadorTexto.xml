@@ -1,0 +1,174 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ProcesadorTexto
+</name>
+</assembly>
+<members>
+<member name="M:ProcesadorTexto.btn_colorfuente.NuevoToolStripMenuItem_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del Toolstripmenuitem Nuevo
+ </summary>
+	<remarks>Permite crear un nuevo documento de texto.</remarks>
+</member><member name="M:ProcesadorTexto.btn_colorfuente.AbrirToolStripMenuItem_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del Toolstripmenuitem Abrir
+ </summary>
+	<remarks>Se encargará de abrir un archivo de texto sobre nuestro richTextBox.</remarks>
+</member><member name="M:ProcesadorTexto.btn_colorfuente.GuardarToolStripMenuItem_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del Toolstripmenuitem Guardar
+ </summary>
+	<remarks>Guarda el contenido del richTextBox a nuestro disco duro con un formato txt</remarks>
+</member><member name="M:ProcesadorTexto.btn_colorfuente.ImprimirToolStripMenuItem_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del Toolstripmenuitem Imprimir
+ </summary>
+	<remarks>Imprime el documento actual.</remarks>
+</member><member name="M:ProcesadorTexto.btn_colorfuente.VistaPreliminarToolStripMenuItem_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del Toolstripmenuitem VistaPreliminar
+ </summary>
+	<remarks>Establece una vista preliminar de nuestro documento</remarks>
+</member><member name="M:ProcesadorTexto.btn_colorfuente.SalirToolStripMenuItem_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del Toolstripmenuitem Salir
+ </summary>
+	<remarks>Sale de la aplicación actual.</remarks>
+</member><member name="M:ProcesadorTexto.btn_colorfuente.CopiarToolStripMenuItem_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del Toolstripmenuitem Copiar
+ </summary>
+	<remarks>Permite copiar una zona del texto</remarks>
+</member><member name="M:ProcesadorTexto.btn_colorfuente.CortarToolStripMenuItem_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del Toolstripmenuitem Cortar
+ </summary>
+	<remarks>Permite cortar una zona del texto.</remarks>
+</member><member name="M:ProcesadorTexto.btn_colorfuente.PegarToolStripMenuItem_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del Toolstripmenuitem Pegar
+ </summary>
+	<remarks>Permite pegar en la zona del richTextBox que se desee un texto que se haya cortado o copiado previamente.</remarks>
+</member><member name="M:ProcesadorTexto.btn_colorfuente.DeshacerToolStripMenuItem_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del Toolstripmenuitem Deshacer
+ </summary>
+	<remarks>Deshace la última acción hecha por el usuario dentro del documento.</remarks>
+</member><member name="M:ProcesadorTexto.btn_colorfuente.RehacerToolStripMenuItem_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del Toolstripmenuitem Rehacer
+ </summary>
+	<remarks>Rehace la última acción hecha por el usuario.</remarks>
+</member><member name="M:ProcesadorTexto.btn_colorfuente.BuscarToolStripMenuItem_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del Toolstripmenuitem Buscar
+ </summary>
+	<remarks>Pedirá al usuario una palabra a buscar dentro del richTextBox y si está, la seleccionará.</remarks>
+</member><member name="M:ProcesadorTexto.btn_colorfuente.BarraDeEstadoToolStripMenuItem_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del Toolstripmenuitem BarraDeEstado
+ </summary>
+	<remarks>Si la barra de estado está checkeada estará visible para el usuario, si no lo está se ocultará.</remarks>
+</member><member name="M:ProcesadorTexto.btn_colorfuente.BarraDeHerramientasToolStripMenuItem_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del Toolstripmenuitem BarraDeHerramientas
+ </summary>
+	<remarks>Si la barra de herramientas está checkeada estará visible para el usuario, si no lo está se ocultará.</remarks>
+</member><member name="M:ProcesadorTexto.btn_colorfuente.CambiarFuenteToolStripMenuItem_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del Toolstripmenuitem CambiarFuente
+ </summary>
+	<remarks>Permitirá al usuario cambiar la fuente del texto del documento</remarks>
+</member><member name="M:ProcesadorTexto.btn_colorfuente.CambiarColorFondoToolStripMenuItem_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del Toolstripmenuitem CambiarColorFondo
+ </summary>
+	<remarks>Sacará un cuadro de diálogo para que el usuario pueda cambiar el color del fondo del documento.</remarks>
+</member><member name="M:ProcesadorTexto.btn_colorfuente.CambiarColorFuenteToolStripMenuItem_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del Toolstripmenuitem CambiarColorFuente
+ </summary>
+	<remarks>Sacará un cuadro de diálogo para que el usuario puede modificar el color de la fuente del texto del documento.</remarks>
+</member><member name="M:ProcesadorTexto.btn_colorfuente.frm_main_Load(System.Object,System.EventArgs)">
+	<summary>
+ Evento load del formulario
+ </summary>
+	<remarks>
+ Al cargar el formulario coloca el stick de chequeo sobre la BarraDeEstadoMenuItem y BarraHerramientasMenuItem indicando que inicialmente ambas barras estarán visibles para el usuario,
+ además también limpiará la etiqueta de la barra de estado.
+ </remarks>
+</member><member name="M:ProcesadorTexto.btn_colorfuente.btn_nuevo_MouseHover(System.Object,System.EventArgs)">
+	<summary>
+ Evento MouseOver del botón nuevo de la barra de herramientas
+ </summary>
+	<remarks>Indica en la etiqueta de barra de estado la acción del botón nuevo.</remarks>
+</member><member name="M:ProcesadorTexto.btn_colorfuente.btn_abrir_MouseHover(System.Object,System.EventArgs)">
+	<summary>
+ Evento MouseOver del botón abrir de la barra de herramientas
+ </summary>
+	<remarks>Indica en la etiqueta de la barra de estado la acción del botón abrir.</remarks>
+</member><member name="M:ProcesadorTexto.btn_colorfuente.btn_guardar_MouseHover(System.Object,System.EventArgs)">
+	<summary>
+ Evento MouseOver del botón guardar de la barra de herramientas
+ </summary>
+	<remarks>Indica en la etiqueta de barra de estado la acción del botón guardar.</remarks>
+</member><member name="M:ProcesadorTexto.btn_colorfuente.btn_imprimir_MouseHover(System.Object,System.EventArgs)">
+	<summary>
+ Evento MouseOver del botón imprimir de la barra de herramientas
+ </summary>
+	<remarks>Indica en la etiqueta de barra de estado la acción del botón imprimir.</remarks>
+</member><member name="M:ProcesadorTexto.btn_colorfuente.btn_preliminar_MouseHover(System.Object,System.EventArgs)">
+	<summary>
+ Evento MouseOver del botón preliminar de la barra de herramientas
+ </summary>
+	<remarks>Indica en la etiqueta de barra de estado la acción del botón preliminar.</remarks>
+</member><member name="M:ProcesadorTexto.btn_colorfuente.btn_copiar_MouseHover(System.Object,System.EventArgs)">
+	<summary>
+ Evento MouseOver del botón copiar de la barra de herramientas
+ </summary>
+	<remarks>Indica en la etiqueta de barra de estado la acción del botón copiar.</remarks>
+</member><member name="M:ProcesadorTexto.btn_colorfuente.btn_cortar_MouseHover(System.Object,System.EventArgs)">
+	<summary>
+ Evento MouseOver del botón cortar de la barra de herramientas
+ </summary>
+	<remarks>Indica en la etiqueta de barra de estado la acción del botón cortar.</remarks>
+</member><member name="M:ProcesadorTexto.btn_colorfuente.btn_pegar_MouseHover(System.Object,System.EventArgs)">
+	<summary>
+ Evento MouseOver del botón pegar de la barra de herramientas
+ </summary>
+	<remarks>Indica en la etiqueta de barra de estado la acción del botón pegar.</remarks>
+</member><member name="M:ProcesadorTexto.btn_colorfuente.btn_deshacer_MouseHover(System.Object,System.EventArgs)">
+	<summary>
+ Evento MouseOver del botón deshacer de la barra de herramientas
+ </summary>
+	<remarks>Indica en la etiqueta de barra de estado la acción del botón deshacer.</remarks>
+</member><member name="M:ProcesadorTexto.btn_colorfuente.btn_rehacer_MouseHover(System.Object,System.EventArgs)">
+	<summary>
+ Evento MouseOver del botón rehacer de la barra de herramientas
+ </summary>
+	<remarks>Indica en la etiqueta de barra de estado la acción del botón rehacer.</remarks>
+</member><member name="M:ProcesadorTexto.btn_colorfuente.btn_buscar_MouseHover(System.Object,System.EventArgs)">
+	<summary>
+ Evento MouseOver del botón buscar
+ </summary>
+	<remarks>Indica en la etiqueta de barra de estado la acción del botón buscar.</remarks>
+</member><member name="M:ProcesadorTexto.btn_colorfuente.btn_colorfont_MouseHover(System.Object,System.EventArgs)">
+	<summary>
+ Evento MouseOver del botón colorFont de la barra de herramientas
+ </summary>
+	<remarks>Indica en la etiqueta de barra de estado la acción del botón colorFont.</remarks>
+</member><member name="M:ProcesadorTexto.btn_colorfuente.btn_colorfondo_MouseHover(System.Object,System.EventArgs)">
+	<summary>
+ Evento MouseOver del botón colorFondo de la barra de herramientas
+ </summary>
+	<remarks>Evento MouseOver del botón abrir de la barra de herramientasIndica en la etiqueta de barra de estado la acción del botón colorFondo</remarks>
+</member><member name="M:ProcesadorTexto.btn_colorfuente.btn_nuevo_MouseLeave(System.Object,System.EventArgs)">
+	<summary>
+ Evento MouseLeave del botón nuevo de la barra de herramientas
+ </summary>
+	<remarks>Permite limpiar la etiqueta de la barra de estado para que cuando el usuario no esté sobre ningún icono no salga nada en dicha barra.</remarks>
+</member>
+</members>
+</doc>
